@@ -38,7 +38,7 @@ Foi realizado todo o trabalho de ETL para remover os campos que não seriam util
 
 ## Link para o painel
 
-Acesso o painel detalhado em [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTIyMWRhZTgtZjViMC00NGFhLTgyYTAtMGFkOTE2ZjJlMzBjIiwidCI6ImVhZWZiZmY5LWFmZmMtNDgwNS1hZTdkLTM4MTUxMWVmOTA3MCJ9/).
+Acesso o painel detalhado em [Power BI](https://app.powerbi.com/view?r=eyJrIjoiYTIyMWRhZTgtZjViMC00NGFhLTgyYTAtMGFkOTE2ZjJlMzBjIiwidCI6ImVhZWZiZmY5LWFmZmMtNDgwNS1hZTdkLTM4MTUxMWVmOTA3MCJ9).
 
 > [!CAUTION]
 > Os dados são coletados diretamente da API, portanto, não é de controle próprio.
