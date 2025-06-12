@@ -1,5 +1,5 @@
 # Dados Dengue Sorocaba
- Dados da Dengue de 2019 a 2024
+ Dados da Dengue de 2019 a 2025
 ## Introdução
 
  A dengue continua a ser um desafio de saúde pública em todo o mundo, e a cidade de **Sorocaba**, no estado de São Paulo, não está imune a essa realidade. Este relatório apresenta uma análise abrangente dos **casos de dengue registrados em Sorocaba de 2019 a 2024**, destacando as tendências, os desafios enfrentados e as medidas adotadas para controlar e combater essa doença.
